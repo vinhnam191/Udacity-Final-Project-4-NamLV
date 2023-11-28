@@ -16,8 +16,6 @@ The project will also include writing documentation and runbooks covering the op
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-
-
 ### Dependencies
 
 ```
@@ -70,3 +68,32 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+# Steps I have done and all the screenshots and link of application
+
+## Front-End link:
+
+- The link of UI: http://namlv18finalprojectudacity.s3-website-us-east-1.amazonaws.com
+- I suggest to open this link in Microsoft Edge because chrome automatically transform the http into https therefore I cannot access the link.
+
+## Screenshots
+
+- Last successul CircleCi build :
+  1. Build - phase :
+     ![build.png](/screenshot/build.png)
+  2. Hold on - phase:
+     ![hold.png](/screenshot/hold.png)
+  3. Deploy - phase:
+     ![deploy](/screenshot/deploy.png)
+- AWS RDS Overview:
+  ![RDS](/screenshot/RDS.png)
+- S3 :
+  ![s3](/screenshot/s3.png)
+- Elasticbeanstalk :
+  ![elastic-beanstalk](/screenshot/elastic-beanstalk.png)
+- Environment Variable in CircleCi:
+  ![env](/screenshot/env.png)
+- Home Page:
+  ![home-page](/screenshot/home-page.png)
+- Home Page Register:
+  ![register](/screenshot/register.png)
