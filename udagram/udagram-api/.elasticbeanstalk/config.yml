@@ -3,10 +3,10 @@ branch-defaults:
     environment: udagram-api3-dev
     group_suffix: null
 global:
-  application_name: app-231128_081417102445
+  application_name: udagram-api3
   branch: null
   default_ec2_keyname: udagram
-  default_platform: Node.js 18 running on 64bit Amazon Linux 2023
+  default_platform: Node.js 18 running on 64bit Amazon Linux 2023/6.0.3
   default_region: us-east-1
   include_git_submodules: true
   instance_profile: null
